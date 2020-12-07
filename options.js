@@ -12,15 +12,12 @@ var site = {
   headerColor: '#e74c3c',
 
   author: {
-    email: "your@email",
-    github: "abc123",
-    twitter: "abc123",
-    pinterest: "abc123",
-    linkedin: "abc123"
+    email: "lhaquoc@gmail.com",
+    github: "https://github.com/lhaquoc",
   },
 
   disqus: {
-    shortname: ''
+    shortname: 'lhaquoc'
   },
 
   analyticsTrackId: ''
